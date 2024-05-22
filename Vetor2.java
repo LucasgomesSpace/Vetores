@@ -11,7 +11,7 @@ public class Vetor2 {
 
 		for (int i=0; i<5; i++) { 
 
-			System.out.print("Informe um valor " + i +" ....;" );
+			System.out.println("Informe um valor " + i +" ....;" );
 			a[i] = ler.nextInt();
 		}
 
